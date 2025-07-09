@@ -2,6 +2,10 @@
 
 A collection of handy cheat sheets and code snippets for quick data analysis. Covers cleaning, visualization, stats, Python, and SQL.
 
+##  View Web Demo (soon)
+
+![image](https://github.com/user-attachments/assets/97d64ccf-5a61-442a-9e3f-b417e1d0a2a8)
+
 ## How to Contribute?
 
 1. **Fork the repository**  

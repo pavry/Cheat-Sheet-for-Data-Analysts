@@ -40,6 +40,10 @@ A collection of handy cheat sheets and code snippets for quick data analysis. Co
 7. **Open a Pull Request**  
    Go to your fork on GitHub, click the "Compare & pull request" button, and describe your contribution.
 
----
+## Disclaimer
 
-Thank you for helping improve this project!
+This repository contains cheat sheets collected from various sources.  
+I do not claim ownership of these materials.  
+
+If you are the rightful owner of any content here and believe it should be removed,  
+please contact me and I will promptly take it down.

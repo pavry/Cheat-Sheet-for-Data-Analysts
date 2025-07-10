@@ -2,7 +2,9 @@
 
 A collection of handy cheat sheets and code snippets for quick data analysis. Covers cleaning, visualization, stats, Python, and SQL.
 
-##  View Web Demo (soon)
+## Demo
+
+[Live Demo](https://pavry.github.io/Cheat-Sheet-for-Data-Analysts/)
 
 ![image](https://github.com/user-attachments/assets/97d64ccf-5a61-442a-9e3f-b417e1d0a2a8)
 

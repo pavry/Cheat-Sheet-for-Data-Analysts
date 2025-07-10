@@ -8,6 +8,10 @@ A collection of handy cheat sheets and code snippets for quick data analysis. Co
 
 ![image](https://github.com/user-attachments/assets/97d64ccf-5a61-442a-9e3f-b417e1d0a2a8)
 
+> ⚠️  The demo loads folders and cheat sheets from this repo. 
+> GitHub limits **60** file requests per hour per IP.  
+> Exceeding this may cause loading issues.
+
 ## How to Contribute?
 
 1. **Fork the repository**  
